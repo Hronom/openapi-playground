@@ -1,6 +1,10 @@
 openapi: 3.0.0
 servers:
-  - description: Swagger Proxy URL
+  - description: STAGING (MOCK)
+    url: http://localhost:8080
+  - description: STAGING
+    url: http://localhost:8080
+  - description: PROD
     url: http://localhost:8080
 info:
   description: User Search V2 API
