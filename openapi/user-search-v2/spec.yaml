@@ -3,9 +3,9 @@ servers:
   - description: Swagger Proxy URL
     url: http://localhost:8080
 info:
-  description: User Search API
+  description: User Search V2 API
   version: 2.0.0
-  title: User Search API
+  title: User Search V2 API
   contact:
     email: you@your-company.com
   license:
